@@ -1,0 +1,5 @@
+.clangd/*
+bin/*
+!bin/.gitkeep
+
+
